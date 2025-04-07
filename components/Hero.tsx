@@ -10,9 +10,9 @@ export default function Hero() {
             Fast, Reliable Courier Services in NYC
           </h1>
           <p className="text-lg text-[#74512D] mb-8">
-            Alternative Delivery Systems has been New York's trusted messenger
-            and delivery service since 1995 — providing rush, van, and truck
-            deliveries 24/7 across the tri-state area.
+            {
+              "Alternative Delivery Systems has been New York's trusted messenger and delivery service since 1995 — providing rush, van, and truck deliveries 24/7 across the tri-state area."
+            }
           </p>
           <div className="flex gap-4 flex-wrap">
             <a href="#contact">
