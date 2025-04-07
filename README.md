@@ -29,7 +29,6 @@ This site was designed to modernize and relaunch the company’s online presence
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - Responsive SVG icons
-- Deployed on [Vercel](https://vercel.com/) (optional)
 
 ---
 
